@@ -1,0 +1,11 @@
+city,organization_name,contact_person,phone,pickup_available,email,available_days,notes
+Delhi,Delhi Food Relief 1,Team 1,9710653449,No,ngo1@delhirelief.org,Mon–Sun,Pickup after 7 PM
+Delhi,Delhi Food Relief 2,Team 2,9335407238,Yes,ngo2@delhirelief.org,Mon–Sun,Pickup after 7 PM
+Mumbai,Mumbai Food Relief 1,Team 1,9328922454,No,ngo1@mumbairelief.org,Weekdays Only,Requires 24h notice
+Mumbai,Mumbai Food Relief 2,Team 2,9995138964,No,ngo2@mumbairelief.org,Weekdays Only,Pickup after 7 PM
+Bangalore,Bangalore Food Relief 1,Team 1,9461636390,No,ngo1@bangalorerelief.org,Weekdays Only,Pickup after 7 PM
+Bangalore,Bangalore Food Relief 2,Team 2,9329624152,Yes,ngo2@bangalorerelief.org,Weekdays Only,Pickup after 7 PM
+Hyderabad,Hyderabad Food Relief 1,Team 1,9428212646,Yes,ngo1@hyderabadrelief.org,Mon–Sun,Requires 24h notice
+Hyderabad,Hyderabad Food Relief 2,Team 2,9987294927,No,ngo2@hyderabadrelief.org,Mon–Sun,Requires 24h notice
+Kolkata,Kolkata Food Relief 1,Team 1,9318704060,Yes,ngo1@kolkatarelief.org,Weekdays Only,Requires 24h notice
+Kolkata,Kolkata Food Relief 2,Team 2,9324304750,Yes,ngo2@kolkatarelief.org,Weekdays Only,Pickup after 7 PM
